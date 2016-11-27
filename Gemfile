@@ -36,4 +36,6 @@ end
 gem 'rubocop', '~> 0.44.1', require: false
 gem 'haml-rails', '0.9'
 
+gem 'devise', '4.1.1'
+
 
