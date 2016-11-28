@@ -1,0 +1,7 @@
+%h1 Your conversations
+#conversations
+  - if @conversations
+    = render @conversations
+  - else
+    =render plain: "No conversations yet."
+
